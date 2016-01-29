@@ -1,0 +1,50 @@
+{
+  "name": "quote-machine",
+  "version": "1.0.0",
+  "author": "Srinivasan <srini.cug@gmail.com>",
+  "description": "A Random Quote Machine",
+  "main": "main.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "node-sass": "^3.4.2",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.10",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinisoundar/quote-machine.git"
+  },
+  "scripts": {
+    "build": "./node_modules/webpack/bin/webpack.js -p",
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --progress --colors --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "babel",
+    "es2015",
+    "webpack",
+    "sass",
+    "es6",
+    "hello world kit",
+    "kit"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srinisoundar/quote-machine/issues"
+  },
+  "homepage": "https://github.com/srinisoundar/quote-machine#readme"
+}
