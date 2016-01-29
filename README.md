@@ -1,4 +1,4 @@
-# react-webpack-babel-kit
+# Random Quote Machine
 
 A random quote machine
 
