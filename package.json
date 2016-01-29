@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "author": "Srinivasan <srini.cug@gmail.com>",
   "description": "A Random Quote Machine",
-  "main": "main.js",
+  "main": "./src/scripts/main.js",
   "dependencies": {
-    "bootstrap": "^3.3.6"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
