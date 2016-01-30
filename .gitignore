@@ -1,8 +1,5 @@
 #node modules
 node_modules
 
-#dist
-dist
-
 # OSX files
 .DS_Store
